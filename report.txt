@@ -1,0 +1,13 @@
+===== TODO MANAGER REPORT =====
+
+Total tasks: 5
+Completed tasks: 3
+Remaining tasks: 2
+
+Tasks:
+[MEDIUM] do lundry (TODO)
+[MEDIUM] do shooping (TODO)
+[HIGH] finish kotlin project (DONE)
+[LOW] earn gold (DONE)
+[MEDIUM] go sleep (DONE)
+
