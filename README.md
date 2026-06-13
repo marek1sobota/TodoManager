@@ -52,16 +52,19 @@ Implemented classes:
 ReportBuilder
 TextReportBuilder
 ReportDirector
-Project Structure
-src/main/kotlin
-│
-├── builder
-├── factory
-├── model
-├── repository
-├── ui
-└── utils
-Running the Application
+## Project Structure
+
+```text
+src
+└── main
+    └── kotlin
+        ├── builder
+        ├── factory
+        ├── model
+        ├── repository
+        ├── ui
+        └── utils
+```
 
 Requirements:
 
